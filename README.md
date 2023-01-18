@@ -8,4 +8,4 @@ All you need to do is use Visual Basic code editor for compilng and a web browse
                      pip install streamlit
              
 # RUNNING PROCESS
-      streamlit run appname.py
+         streamlit run appname.py
