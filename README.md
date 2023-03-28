@@ -5,7 +5,7 @@ Here is automated analysis genie satisfying all the basic analytical needs a beg
 
 All you need to do is use Visual Basic code editor for compilng and a web browser for viewing the output.
 
-# INSTALLATION
+# INSTALATION
         Install necessary libraries using pip install command in the terminal
                EXAMPLE:
                      pip install streamlit
