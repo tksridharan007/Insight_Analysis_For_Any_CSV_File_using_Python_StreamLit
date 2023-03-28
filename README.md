@@ -23,26 +23,31 @@ All you need to do is use Visual Basic code editor for compilng and a web browse
 
 # SYSTEM COMPONENTS(MODULES)
 
-IMPORT LIBRARIES                                                                                                                                                     
-           In this module, different libraries like pandas, NumPy, matplotlib, and statsmodels are imported, which are useful for data processing, visualization, 
+IMPORT LIBRARIES
+
+In this module, different libraries like pandas, NumPy, matplotlib, and statsmodels are imported, which are useful for data processing, visualization, 
 accuracy, and prediction.
 
 DATA PROCESSING
-        In this module, the data undergoes pre-processing like cleaning the dataset and removing null and unwanted values.
+
+In this module, the data undergoes pre-processing like cleaning the dataset and removing null and unwanted values.
 
 VISUALIZATION
+
        1. Initially, the data undergoes visualization for the crime given by the user.
        2. Next for the entered year, visualization is done for all the crime counts for all the states in India.
        3. Next the crime rate is compared for the years 2001 and 2012 (i.e for the initial and final data in the data set).
        4. Then the graph is plotted against the crime count district-wise for the entered state.
 
 BUILT ARIMA MODEL
+
        1. An autoregressive integrated moving average model, a statistical analysis model that uses time series data to better understand the data set or predict future trends.
        2. Here the values in the data set range from 2001 to 2012.
        3. Here the data is fed from 2013 to 2022 manually.
        4. Then the model is built and the graph is displayed.
 
 BUILT SARIMA MODEL
+
        1. A seasonal autoregressive integrated moving average model which is like ARIMA but more powerful.
        2. We can use statsmodels implementation of SARIMA.
        3. Then the model is built and the graph is displayed using a seasonal pattern.
