@@ -23,7 +23,7 @@ All you need to do is use Visual Basic code editor for compilng and a web browse
 
 # SYSTEM COMPONENTS(MODULES)
 
-# Import Libraries
+#Import Libraries
         In this module, different libraries like pandas, NumPy, matplotlib, and statsmodels are imported, which are useful for data processing,visualization, accuracy, and prediction.
 
 # Data Processing
