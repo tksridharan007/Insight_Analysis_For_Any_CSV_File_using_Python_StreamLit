@@ -34,15 +34,15 @@ In this module, the data undergoes pre-processing like cleaning the dataset and 
 
 VISUALIZATION
 
-1. Initially, the data undergoes visualization for the crime given by the user.
-2. Next for the entered year, visualization is done for all the crime counts for all the states in India.
-3. Next the crime rate is compared for the years 2001 and 2012 (i.e for the initial and final data in the data set).
-4. Then the graph is plotted against the crime count district-wise for the entered state.
+1. Initially, the data undergoes visualization for the data given by the user.
+2. Next for the entered Data_set, visualization is done.
+3. Next comparing the two columns to ploy it  (i.e for the initial and final data in the data set).
+4. Then the graph is visualised.
 
 BUILT ARIMA MODEL
 
 1. An autoregressive integrated moving average model, a statistical analysis model that uses time series data to better understand the data set or predict future trends.
-2. Here the values in the data set range from 2001 to 2012.
+2. Here the values in the data set range from 2001 to 2012(Year may vary according to the users dataset).
 3. Here the data is fed from 2013 to 2022 manually.
 4. Then the model is built and the graph is displayed.
 
