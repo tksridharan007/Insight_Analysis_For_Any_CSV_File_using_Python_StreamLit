@@ -36,7 +36,7 @@ VISUALIZATION
 
 1. Initially, the data undergoes visualization for the data given by the user.
 2. Next for the entered Data_set, visualization is done.
-3. Next comparing the two columns to ploy it  (i.e for the initial and final data in the data set).
+3. Next comparing the two columns to plot it  (i.e for the initial and final data in the data set).
 4. Then the graph is visualised.
 
 BUILT ARIMA MODEL
